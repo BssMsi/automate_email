@@ -1,0 +1,14 @@
+/__pycache__
+/shopify_langchain_vectorstore
+/langchain_shopify
+.env
+/.venv
+/langchain
+/langchain_vectorstore
+styling-420120.json
+.cheatsheet.md
+.documentation.md
+/vertexai_vectorstore
+pytorch_model.bin
+token.json
+*.log
